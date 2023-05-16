@@ -1,8 +1,9 @@
-<div >
+<div align="center">
 
 <img src="./assets/coding.gif" alt="Coding" width="500" />
 
 [![Hi, I'm Trong Phuc!](./assets/hi.svg)](https://git.io/typing-svg)
+
 # About me
 
 My name is Nguyen Trong Phuc, a passionate web/android developer from Viet Nam.
@@ -22,8 +23,10 @@ You can reach me at phucmxst123@gmail.com
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=575757&logo=php)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&labelColor=575757&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=575757&logo=javascript)
+
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-DC382D?style=flat&labelColor=575757&logo=microsoftsqlserver)
 ![My SQl](https://img.shields.io/badge/-MySQL-4479A1?style=flat&labelColor=575757&logo=mysql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=575757&logo=git)
 
 </div>
