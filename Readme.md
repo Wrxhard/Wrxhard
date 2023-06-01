@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/coding.gif" alt="Coding" width="500" />
-
 [![Hi, I'm Trong Phuc!](./assets/hi.svg)](https://git.io/typing-svg)
 
 # About me
