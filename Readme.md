@@ -35,6 +35,7 @@ Or
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=575757&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=575757&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-F24E1E?style=flat&labelColor=575757&logo=postman)
 
 
 </div>
