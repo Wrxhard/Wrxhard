@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding" width="2000" />
+[![MasterHead]<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding" width="2000" />
+
   
 [![Hi, I'm Trong Phuc!](./assets/hi.svg)](https://git.io/typing-svg)
 
