@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Coding" width="2000" />
+  
 [![Hi, I'm Trong Phuc!](./assets/hi.svg)](https://git.io/typing-svg)
 
 # About me
 
-My name is Nguyen Trong Phuc, a passionate full-stack android developer from Viet Nam.
+My name is Nguyen Trong Phuc, a passionate Full-Stack Android developer from Viet Nam.
 
 I'm currently a student at Ton Duc Thang University.
 
