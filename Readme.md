@@ -4,7 +4,7 @@
 
 # About me
 
-My name is Nguyen Trong Phuc, a passionate Full-Stack Android Developer from Viet Nam.
+My name is Nguyen Trong Phuc, a passionate Developer from Viet Nam.
 
 I'm currently a student at Ton Duc Thang University.
 
