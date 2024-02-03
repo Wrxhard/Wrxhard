@@ -27,14 +27,12 @@ Or
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&labelColor=575757&logo=python)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&labelColor=575757&logo=flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=575757&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=575757&logo=php)
 
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-DC382D?style=flat&labelColor=575757&logo=microsoftsqlserver)
 ![My SQl](https://img.shields.io/badge/-MySQL-4479A1?style=flat&labelColor=575757&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&labelColor=575757&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&labelColor=575757&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-F24E1E?style=flat&labelColor=575757&logo=postman)
 
 
 </div>
