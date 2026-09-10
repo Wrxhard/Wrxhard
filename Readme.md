@@ -8,7 +8,7 @@ My name is Nguyen Trong Phuc, a passionate Developer from Viet Nam.
 
 I'm currently a student at Ton Duc Thang University.
 
-You can reach me at phucmxst123@gmail.com
+You can reach me at wrxhardforwork@gmail.com
 
 Or
 
